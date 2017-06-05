@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ford 360 Lighting</string>
+    <string name="action_settings">Settings</string>
+    <string name="truck_image_description">Truck Image</string>
+</resources>
